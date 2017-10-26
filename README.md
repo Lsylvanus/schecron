@@ -1,3 +1,3 @@
 # schecron
 ------------
-[webcron](https://github.com/lishijie/webcron)
+[webcron](https://github.com/lisijie/webcron)
